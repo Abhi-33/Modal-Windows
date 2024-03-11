@@ -1,0 +1,1 @@
+# A Website with three cards i.e whenever a click event happens on one of the three cards then a Modal Window will appear on the screen.
