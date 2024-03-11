@@ -1,0 +1,9 @@
+1 - "classList" - a property in javascript used to manipulate classes of an
+ HTML Element,making it easy to add,remove,or toggle css classes.
+
+2 - "addEventListener('click',function({}))" - in this piece of code,
+ an event listener 'click'is added and a function is added as the
+2nd argument in the same fucntion that means whenever a click is fired
+on something then that function will be executed defined after the 'click'
+argument. 
+
